@@ -1,2 +1,2 @@
-# Diwali-Sales-Analysis
-Diwali sales analysis using python.
+# Diwali-Sales-Analysis Using Python
+In this project, I have worked on Diwali sales and learned how to get the description of the data, do data cleaning, exploratory data analysis on data and get insight from the data between different parameters like gender and amount spent, the amount paid by different age-group, the amount spent state wise, marital_status and amount spent, occupation and amount_spent, the total amount spent on each product, product and order number this insight helps us to answer the different question associated with the analysis like which gender and age group spent more on Diwali which top spent more on Diwali what are the top-selling product. For which product, the amount is spent the most. 
