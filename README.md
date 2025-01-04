@@ -1,2 +1,51 @@
-# Diwali-Sales-Analysis Using Python
-In this project, I have worked on Diwali sales and learned how to get the description of the data, do data cleaning, exploratory data analysis on data and get insight from the data between different parameters like gender and amount spent, the amount paid by different age-group, the amount spent state wise, marital_status and amount spent, occupation and amount_spent, the total amount spent on each product, product and order number this insight helps us to answer the different question associated with the analysis like which gender and age group spent more on Diwali which top spent more on Diwali what are the top-selling product. For which product, the amount is spent the most? 
+# Diwali-Sales-Analysis Using Python 🎉
+
+In this project, I have worked on analyzing Diwali sales data using Python on Google Colab. The primary objectives of this project were to understand customer spending behavior during Diwali and derive actionable insights. Here’s a brief overview of what I accomplished:
+
+## About the Project
+
+In this project, I have learned how to:
+- Get the description of the data to understand its structure.
+- Perform data cleaning to handle missing values and ensure data quality.
+- Conduct exploratory data analysis (EDA) to explore relationships between different parameters and uncover patterns in the data.
+
+## Insights Generated
+
+### Gender and Amount Spent
+Analyzed spending habits across different genders to understand which gender spent more during Diwali.
+
+### Age Group and Amount Paid
+Studied the spending patterns of different age groups to determine which age group paid the most.
+
+### State-wise Spending
+Investigated the amount spent in different states to understand regional spending patterns.
+
+### Marital Status and Amount Spent
+Explored spending behaviour based on marital status to see if there were any notable differences.
+
+### Occupation and Amount Spent
+Looked into spending trends across different occupations to identify high-spending professions.
+
+### Product-wise Spending
+Identified the total amount spent on each product and the top-selling products. Determined for which products the amount spent was the most.
+
+## Key Findings
+- Which gender and age group spent more on Diwali?
+- Which demographics were the top spenders during Diwali?
+- The top-selling products during Diwali.
+- Products with the highest total spending.
+
+## Conclusion
+
+Married women aged 26-35 years from Uttar Pradesh, Maharashtra, and Karnataka, working in the IT sector, healthcare, and aviation are more likely to buy products from food, clothing, and electronics categories.
+
+This project has been an incredible learning experience and has solidified my foundation in data analysis. The insights gained from analyzing Diwali sales data have provided a deeper understanding of customer spending behaviour. I'm excited to continue this journey, learn more, and tackle even more challenging projects in the future.
+
+Thank you for visiting my repository! If you have any suggestions or feedback, feel free to reach out.
+
+
+### Link to project:
+https://colab.research.google.com/drive/1dxZdW-o3l6DFThAUa105RBn7ZLX-ueTJ#scrollTo=9GZPGiU7v_1K
+
+
+
